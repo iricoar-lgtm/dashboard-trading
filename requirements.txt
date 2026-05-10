@@ -1,0 +1,14 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+ta
+scipy
+textblob
+feedparser
+backtrader
+matplotlib
+newspaper3k
+nltk
+lxml_html_clean
